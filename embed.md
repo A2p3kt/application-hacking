@@ -106,7 +106,8 @@ Now that the encryption is gone, I can see what's inside the firmware.
 
 **What This Means:** I now have access to the actual files the camera uses.
 
-> **Note:** From here on, I used Gemini 3 Pro to help me understand what I was looking at and decide what to do next.
+> [!NOTE] 
+> From here on, I used Gemini 3 Pro to help me understand what I was looking at and decide what to do next.
 
 Gemini suggested running `binwalk` to dig into the decrypted file:
 
